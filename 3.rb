@@ -1,0 +1,1 @@
+puts "test from mac mini"
